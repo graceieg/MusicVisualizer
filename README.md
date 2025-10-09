@@ -2,13 +2,13 @@
 
 An interactive music visualizer web application that transforms audio into captivating visual experiences using React and the Web Audio API.
 
-📅 **Last Updated**: September 26, 2025  
+ **Last Updated**: September 26, 2025  
  
-## 🎵 Overview
+## Overview
 
 This project brings music to life through dynamic visualizations that respond to audio in real-time. Built with modern web technologies, it offers an immersive audio-visual experience with multiple visualization modes and customizable settings.
 
-## ✨ Features
+## Features
 
 - **5 Visualization Modes**:
   - Spectrum Analyzer
@@ -25,7 +25,7 @@ This project brings music to life through dynamic visualizations that respond to
   - Particle count
   - Mirror effects
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: React 18, TypeScript
 - **Styling**: Tailwind CSS
@@ -33,7 +33,7 @@ This project brings music to life through dynamic visualizations that respond to
 - **Build Tool**: Vite
 - **UI Components**: Radix UI, Lucide Icons
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -59,7 +59,7 @@ This project brings music to life through dynamic visualizations that respond to
    ```
 
 
-## 🎨 Using the Visualizer
+## Using the Visualizer
 
 1. Click the upload button to select an audio file
 2. Use the playback controls to play/pause the audio
@@ -67,7 +67,7 @@ This project brings music to life through dynamic visualizations that respond to
 4. Adjust settings using the control panel
 5. Toggle fullscreen mode for an immersive experience
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 src/
@@ -78,13 +78,6 @@ src/
 └── main.tsx             # Application entry point
 ```
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Built with ❤️ using Create React App
-- Icons by [Lucide](https://lucide.dev/)
-- UI Components by [Radix UI](https://www.radix-ui.com/)
-- Inspired by various audio visualization projects
+This project is licensed under the MIT License
